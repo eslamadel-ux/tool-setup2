@@ -1,0 +1,5 @@
+ #! /etc/bash
+
+ echo $(whoami)
+
+
